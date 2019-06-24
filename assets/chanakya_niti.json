@@ -1,137 +1,106 @@
 {
-	"chanakya-niti" : [
-		{
-			"title": {
-				"en": "First Chapter",
-				"hn": "प्रथम अध्याय"
-			},
-			"image": "",
-			"content": [
-				{
-					"hn": "तीनो लोको के स्वामी सर्वशक्तिमान भगवान विष्णु  को नमन करते हुए मै एक राज्य के लिए  नीति  शास्त्र  के सिद्धांतों  को कहता हूँ.  मै यह सूत्र अनेक शास्त्रों का आधार ले कर कह रहा हूँ।",
-					"en": "Humbly bowing down before the almighty Lord Sri Vishnu, the Lord of the three worlds, I recite maxims of the science of political ethics (niti) selected from the various satras (scriptures)."
-				},
-				{
-					"hn": "जो व्यक्ति शास्त्रों के सूत्रों का अभ्यास करके ज्ञान ग्रहण करेगा उसे अत्यंत वैभवशाली कर्तव्य के सिद्धांत ज्ञात होगे। उसे इस बात का पता चलेगा कि किन बातों का अनुशरण करना चाहिए और किनका नहीं। उसे अच्छाई और बुराई का भी ज्ञात होगा और अंततः उसे सर्वोत्तम का भी ज्ञान होगा।" ,
-					"en": "That man who by the study of these maxims from the satras acquires a knowledge of the most celebrated principles of duty, and understands what ought and what ought not to be followed, and what is good and what is bad, is most excellent."
-				},
-				{
-					"hn": "इसलिए लोगो का भला करने के लिए मै उन बातों को कहूंगा जिनसे लोग सभी चीजों को सही परिपेक्ष्य मे देखेगे।",
-					"en": "Therefore with an eye to the public good, I shall speak that which, when understood, will lead to an understanding of things in their proper perspective."
-				},{
-					"hn": "एक पंडित भी घोर कष्ट में आ जाता है यदि वह किसी मुर्ख को उपदेश देता है, यदि वह एक दुष्ट पत्नी का पालन-पोषण करता है या किसी दुखी व्यक्ति के साथ अतयंत घनिष्ठ सम्बन्ध बना लेता है.",
-					"en": "Even a pandit comes to grief by giving instruction to a foolish disciple, by maintaining a wicked wife, and by excessive familiarity with the miserable."
-				},{
-					"hn": "दुष्ट पत्नी, झूठा मित्र, बदमाश नौकर और सर्प के साथ निवास साक्षात् मृत्यु के समान है।",
-					"en": "A wicked wife, a false friend, a saucy servant and living in a house with a serpent in it are nothing but death."
-				},{
-					"hn": "व्यक्ति को आने वाली मुसीबतो से निबटने के लिए धन संचय करना चाहिए। उसे धन-सम्पदा त्यागकर भी पत्नी की सुरक्षा करनी चाहिए। लेकिन यदि आत्मा की सुरक्षा की बात आती है तो उसे धन और पत्नी दोनो को तुक्ष्य समझना चाहिए।",
-					"en": "One should save his money against hard times, save his wife at the sacrifice of his riches, but invariably one should save his soul even at the sacrifice of his wife and riches."
-				},{
-					"hn": "भविष्य में आने वाली मुसीबतो के लिए धन एकत्रित करें। ऐसा ना सोचें की धनवान व्यक्ति को मुसीबत कैसी? जब धन साथ छोड़ता है तो संगठित धन भी तेजी से घटने लगता है।",
-					"en": "Save your wealth against future calamity. Do not say, \"What fear has a rich man, of calamity?\" When riches begin to forsake one even the accumulated stock dwindles away."
-				},{
-					"hn": "उस देश मे निवास न करें जहाँ आपकी कोई ईज्जत नहीं हो, जहा आप रोजगार नहीं कमा सकते, जहा आपका कोई मित्र नहीं और जहा आप कोई ज्ञान आर्जित नहीं कर सकते।",
-					"en": "Do not inhabit a country where you are not respected, cannot earn your livelihood, have no friends, or cannot acquire knowledge."
-				},{
-					"hn": "ऐसे जगह एक दिन भी निवास न करें जहाँ निम्नलिखित पांच ना हो:\nएक धनवान व्यक्ति ,\nएक ब्राह्मण जो वैदिक शास्त्रों में निपुण हो,\nएक राजा,\nएक नदी ,\nऔर एक चिकित्सक।",
-					"en": "Do not stay for a single day where there are not these five persons: a wealthy man, a brahmin well versed in Vedic lore, a king, a river and a physician."
-				},{
-					"hn": "बुद्धिमान व्यक्ति को ऐसे देश में कभी नहीं जाना चाहिए जहाँ :\nरोजगार कमाने का कोई माध्यम ना हो,\nजहा लोगों को किसी बात का भय न हो,\nजहा लोगो को किसी बात की लज्जा न हो, \nजहा लोग बुद्धिमान न हो,\nऔर जहाँ लोगो की वृत्ति दान धरम करने की ना हो।",
-					"en": "Wise men should never go into a country where there are no means of earning one's livelihood, where the people have no dread of anybody, have no sense of shame, no intelligence, or a charitable disposition."
-				},{
-					"hn": "नौकर की परीक्षा तब करें जब वह कर्त्तव्य का पालन  न कर रहा हो, \nरिश्तेदार की परीक्षा तब करें जब आप मुसीबत मे घिरें हों,\nमित्र की परीक्षा विपरीत परिस्थितियों मे करें,\nऔर जब आपका वक्त अच्छा न चल रहा हो तब पत्नी की परीक्षा करे।",
-					"en": "Test a servant while in the discharge of his duty, a relative in difficulty, a friend in adversity, and a wife in misfortune."
-				},{
-					"hn": "अच्छा मित्र वही है जो हमे निम्नलिखित परिस्थितियों में  नहीं त्यागे:\nआवश्यकता पड़ने पर,\nकिसी दुर्घटना पड़ने पर,\nजब अकाल पड़ा हो,\nजब युद्ध चल रहा हो,\nजब हमे राजा के दरबार मे जाना पड़े,nऔर जब हमे समशान घाट जाना पड़े।",
-					"en": "He is a true friend who does not forsake us in time of need, misfortune, famine, or war, in a king's court, or at the crematorium (smasana)."
-				},{
-					"hn": "जो व्यक्ति कसी नाशवंत चीज के लिए कभी नाश नहीं होने वाली चीज को छोड़ देता है, तो उसके हाथ से अविनाशी वस्तु तो चली ही जाती है और इसमे कोई संदेह नहीं की नाशवान को भी वह खो देता है।",
-					"en": "He who gives up what is imperishable for that which is perishable, loses that which is imperishable; and doubtlessly loses that which is perishable also."
-				},{
-					"hn": "एक बुद्धिमान व्यक्ति को किसी इज्जतदार घर की अविवाहित कन्या से किस वयंग होने के बावजूद भी विवाह करना चाहिए। उसे किसी हीन घर की अत्यंत सुन्दर स्त्री से भी विवाह नहीं करनी चाहिए। शादी-विवाह हमेशा बराबरी के घरो मे ही उिचत होता है।",
-					"en": "A wise man should marry a virgin of a respectable family even if she is deformed. He should not marry one of a low-class family, through beauty. Marriage in a family of equal status is preferable."
-				},{
-					"hn": "इन ५ पर कभी विश्वास ना करें :\n१. नदियां, \n२. जिन व्यक्तियों के पास अश्त्र-शस्त्र हों, \n३. नाख़ून और सींग वाले पशु, \n४. औरतें (यहाँ संकेत भोली सूरत की तरफ है, बहने बुरा न माने )\n५. राज घरानो के लोगो पर।",
-					"en": "Do not put your trust in rivers, men who carry weapons, beasts with claws or horns, women, and members of a royal family."
-				},{
-					"hn": "अगर हो सके तो विष मे से भी अमृत निकाल लें, \nयदि सोना गन्दगी में भी पड़ा हो तो उसे उठाये, धोएं और अपनाये,\nनिचले कुल मे जन्म लेने वाले से भी सर्वोत्तम ज्ञान ग्रहण करें, \nउसी तरह यदि कोई बदनाम घर की कन्या भी महान गुणो से संपनन है और आपको कोई सीख देती है तो गहण करे.",
-					"en": "Even from poison extract nectar, wash and take back gold if it has fallen in filth, receive the highest knowledge (Krsna consciousness) from a low born person; so also a girl possessing virtuous qualities (stri-ratna) even if she were born in a disreputable family."
-				},{
-					"hn": "महिलाओं में पुरुषों कि अपेक्षा: \nभूख दो गुना,\nलज्जा चार गुना,\nसाहस छः गुना, \nऔर काम आठ गुना होती है।",
-					"en": "Women have hunger two-fold, shyness four-fold, daring six-fold, and lust eight-fold as compared to men."
-				}
-			]
-		},
-		{
-			"title": {
-				"en": "Second Chapter",
-				"hn": "द्वितीय अध्याय"
-			},	
-			"image": "",		
-			"content": [
-				{
-					"hn": "झूठ बोलना, कठोरता, छल करना, बेवकूफी करना, लालच, अपवित्रता  और निर्दयता ये औरतो के कुछ नैसर्गिक दुर्गुण है।",
-					"en": "Untruthfulness, rashness, guile, stupidity, avarice, uncleanliness and cruelty are a woman's seven natural flaws."
-				},{
-					"hn": "भोजन के योग्य पदार्थ और भोजन करने की क्षमता, सुन्दर स्त्री और उसे भोगने के लिए काम शक्ति, पर्याप्त धनराशी तथा दान देने की भावना - ऐसे संयोगों का होना सामान्य तप का फल नहीं है।",
-					"en": "To have ability for eating when dishes are ready at hand, to be robust and virile in the company of one's religiously wedded wife, and to have a mind for making charity when one is prosperous are the fruits of no ordinary austerities."
-				},{
-					"hn": "उस व्यक्ति ने धरती पर ही स्वर्ग को पा लिया :\n१. जिसका पुत्र आज्ञांकारी है,\n२. जिसकी पत्नी उसकी इच्छा के अनुरूप व्यव्हार करती है,\n३. जिसे अपने धन पर संतोष  है।",
-					"en": "He whose son is obedient to him, whose wife's conduct is in accordance with his wishes, and who is content with his riches, has his heaven here on earth."
-				},{
-					"hn": "पुत्र वही है जो पिता का कहना मानता हो, पिता वही है जो पुत्रों का पालन-पोषण करे, मित्र वही है जिस पर आप विश्वास कर सकते हों और पत्नी वही है जिससे सुख प्राप्त हो। ",
-					"en": "They alone are sons who are devoted to their father. He is a father who supports his sons. He is a friend in whom we can confide, and she only is a wife in whose company the husband feels contented and peaceful."
-				},{
-					"hn": "ऐसे लोगों से बचे जो आपके मुह पर तो मीठी बातें करते हैं, लेकिन आपके पीठ पीछे आपको बर्बाद करने की योजना बनाते है, ऐसा करने वाले तो उस विष के घड़े के समान है जिसकी उपरी सतह दूध से भरी है।",
-					"en": "Avoid him who talks sweetly before you but tries to ruin you behind your back, for he is like a pitcher of poison with milk on top."
-				},{
-					"hn": "एक बुरे मित्र पर तो कभी विश्वास ना करे। एक अच्छे मित्र पर भी विश्वास ना करें। क्यूंकि यदि ऐसे लोग आपसे रुष्ट होते है तो आप के सभी राज से पर्दा खोल देंगे। ",
-					"en": "Do not put your trust in a bad companion nor even trust an ordinary friend, for if he should get angry with you, he may bring all your secrets to light."
-				},{
-					"hn": "मन में सोंचे हुए कार्य को किसी के सामने प्रकट न करें बल्कि मनन पूर्वक उसकी सुरक्षा करते हुए उसे कार्य में परिणत कर दें।",
-					"en": "Do not reveal what you have thought upon doing, but by wise counsel keep it secret, being determined to carry it into execution."
-				},{
-					"hn": "मुर्खता दुखदायी है, जवानी भी दुखदायी है,लेकिन इन सबसे कहीं ज्यादा दुखदायी किसी दुसरे के घर जाकर उसका अहसान लेना है।",
-					"en": "Foolishness is indeed painful, and verily so is youth, but more painful by far than either is being obliged in another person's house."
-				},{
-					"hn": "हर पर्वत पर माणिक्य नहीं होते,  हर हाथी के सर पर मणी नहीं होता, सज्जन पुरुष भी हर जगह नहीं होते और हर वन मे चन्दन के वृक्ष भी नहीं होते हैं।",
-					"en": "There does not exist a pearl in every mountain, nor a pearl in the head of every elephant; neither are the sadhus to be found everywhere, nor sandal trees in every forest.\n[Note: Only elephants in royal palaces are seen decorated with pearls (precious stones) on their heads]."
-				},{
-					"hn": "बुद्धिमान पिता को अपने पुत्रों को शुभ गुणों की सीख देनी चाहिए क्योंकि नीतिज्ञ और ज्ञानी व्यक्तियों की ही कुल में पूजा होती है।",
-					"en": "Wise men should always bring up their sons in various moral ways, for children who have knowledge of niti-sastra and are well behaved become a glory to their family."
-				},{
-					"hn": "जो माता व् पिता अपने बच्चों को शिक्षा नहीं देते है वो तो बच्चों के शत्रु के सामान हैं। क्योंकि वे विद्याहीन बालक विद्वानों की सभा में वैसे ही तिरस्कृत किये जाते हैं जैसे हंसो की सभा मे बगुले।",
-					"en": "Those parents who do not educate their sons are their enemies; for as is a crane among swans, so are ignorant sons in a public assembly."
-				},{
-					"hn": "लाड-प्यार से बच्चों मे गलत आदते ढलती है, उन्हें कड़ी शिक्षा देने से वे अच्छी आदते सीखते है, इसलिए बच्चों को जरुरत पड़ने पर दण्डित करें, ज्यादा लाड ना करें।",
-					"en": "Many a bad habit is developed through over indulgence, and many a good one by chastisement, therefore beat your son as well as your pupil; never indulge them. (\"Spare the rod and spoil the child.\")"
-				},{
-					"hn": "ऐसा एक भी दिन नहीं जाना चाहिए जब आपने एक श्लोक, आधा श्लोक, चौथाई श्लोक, या श्लोक का केवल एक अक्षर नहीं सीखा, या आपने दान, अभ्यास या कोई पवित्र कार्य नहीं किया।",
-					"en": "Let not a single day pass without your learning a verse, half a verse, or a fourth of it, or even one letter of it; nor without attending to charity, study and other pious activity."
-				},{
-					"hn": "पत्नी का वियोग होना, आपने ही लोगो से बे-इजजत होना, बचा हुआ ऋण, दुष्ट राजा की सेवा करना, गरीबी एवं दरिद्रों की सभा - ये छह बातें शरीर को बिना अग्नि के ही जला देती हैं।",
-					"en": "Separation from the wife, disgrace from one's own people, an enemy saved in battle, service to a wicked king, poverty, and a mismanaged assembly: these six kinds of evils, if afflicting a person, burn him even without fire."
-				},{
-					"hn": "नदी के किनारे वाले वृक्ष, दुसरे व्यक्ति के घर मे जाने अथवा रहने वाली स्त्री एवं बिना मंत्रियों का राजा - ये सब निश्चय ही शीघ्र नस्ट हो जाते हैं। ",
-					"en": "Trees on a riverbank, a woman in another man's house, and kings without counselors go without doubt to swift destruction."
-				},{
-					"hn": "एक ब्राह्मण का बल तेज और विद्या है, एक राजा का बल उसकी सेना मे है, एक वैशय का बल उसकी दौलत मे है तथा एक शुद्र का बल उसकी सेवा परायणता मे है।",
-					"en": "A brahmin's strength is in his learning, a king's strength is in his army, a vaishya's strength is in his wealth and a shudra's strength is in his attitude of service."
-				},{
-					"hn": "वेश्या को निर्धन व्यक्ति को  त्याग देना चाहिए, प्रजा को पराजित राजा को त्याग देना चाहिए, पक्षियों को फलरहित वृक्ष त्याग देना चाहिए एवं अतिथियों को भोजन करने के पश्चात् मेजबान के घर से निकल देना चाहिए। ",
-					"en": "The prostitute has to forsake a man who has no money, the subject a king that cannot defend him, the birds a tree that bears no fruit, and the guests a house after they have finished their meals."
-				},{
-					"hn": "ब्राह्मण दक्षिणा मिलने के पश्चात् आपने यजमानो को छोड़ देते है, विद्वान विद्या प्राप्ति के बाद गुरु को छोड़ जाते हैं और पशु जले हुए वन को त्याग देते हैं।",
-					"en": "Brahmins quit their patrons after receiving alms from them, scholars leave their teachers after receiving education from them, and animals desert a forest that has been burnt down."
-				},{
-					"hn": "जो व्यक्ति दुराचारी, कुदृष्टि वाले, एवं बुरे स्थान पर रहने वाले मनुष्य के साथ मित्रता करता है, वह शीघ्र नष्ट हो जाता है।",
-					"en": "He who befriends a man whose conduct is vicious, whose vision impure, and who is notoriously crooked, is rapidly ruined."
-				},{
-					"hn": "प्रेम और मित्रता बराबर वालों में अच्छी लगती है, राजा के यहाँ नौकरी करने वाले को ही सम्मान मिलता है, व्यवसायों में वाणिज्य सबसे अच्छा है, अवं उत्तम गुणों वाली स्त्री अपने घर में सुरक्षित रहती है।",
-					"en": "Friendship between equals flourishes, service under a king is respectable, it is good to be business-minded in public dealings, and a handsome lady is safe in her own home."
-				}
-			]
-		}
-	]
+  "chanakya-niti-lang": {
+    "hn": [
+      {
+        "title" : "प्रथम अध्याय",
+        "image": "",
+        "content": [
+          "तीनो लोको के स्वामी सर्वशक्तिमान भगवान विष्णु  को नमन करते हुए मै एक राज्य के लिए  नीति  शास्त्र  के सिद्धांतों  को कहता हूँ.  मै यह सूत्र अनेक शास्त्रों का आधार ले कर कह रहा हूँ।",
+          "जो व्यक्ति शास्त्रों के सूत्रों का अभ्यास करके ज्ञान ग्रहण करेगा उसे अत्यंत वैभवशाली कर्तव्य के सिद्धांत ज्ञात होगे। उसे इस बात का पता चलेगा कि किन बातों का अनुशरण करना चाहिए और किनका नहीं। उसे अच्छाई और बुराई का भी ज्ञात होगा और अंततः उसे सर्वोत्तम का भी ज्ञान होगा।",
+          "इसलिए लोगो का भला करने के लिए मै उन बातों को कहूंगा जिनसे लोग सभी चीजों को सही परिपेक्ष्य मे देखेगे।",
+          "एक पंडित भी घोर कष्ट में आ जाता है यदि वह किसी मुर्ख को उपदेश देता है, यदि वह एक दुष्ट पत्नी का पालन-पोषण करता है या किसी दुखी व्यक्ति के साथ अतयंत घनिष्ठ सम्बन्ध बना लेता है.",
+          "दुष्ट पत्नी, झूठा मित्र, बदमाश नौकर और सर्प के साथ निवास साक्षात् मृत्यु के समान है।",
+          "व्यक्ति को आने वाली मुसीबतो से निबटने के लिए धन संचय करना चाहिए। उसे धन-सम्पदा त्यागकर भी पत्नी की सुरक्षा करनी चाहिए। लेकिन यदि आत्मा की सुरक्षा की बात आती है तो उसे धन और पत्नी दोनो को तुक्ष्य समझना चाहिए।",
+          "भविष्य में आने वाली मुसीबतो के लिए धन एकत्रित करें। ऐसा ना सोचें की धनवान व्यक्ति को मुसीबत कैसी? जब धन साथ छोड़ता है तो संगठित धन भी तेजी से घटने लगता है।",
+          "उस देश मे निवास न करें जहाँ आपकी कोई ईज्जत नहीं हो, जहा आप रोजगार नहीं कमा सकते, जहा आपका कोई मित्र नहीं और जहा आप कोई ज्ञान आर्जित नहीं कर सकते।",
+          "ऐसे जगह एक दिन भी निवास न करें जहाँ निम्नलिखित पांच ना हो:\nएक धनवान व्यक्ति ,\nएक ब्राह्मण जो वैदिक शास्त्रों में निपुण हो,\nएक राजा,\nएक नदी ,\nऔर एक चिकित्सक।",
+          "बुद्धिमान व्यक्ति को ऐसे देश में कभी नहीं जाना चाहिए जहाँ :\nरोजगार कमाने का कोई माध्यम ना हो,\nजहा लोगों को किसी बात का भय न हो,\nजहा लोगो को किसी बात की लज्जा न हो, \nजहा लोग बुद्धिमान न हो,\nऔर जहाँ लोगो की वृत्ति दान धरम करने की ना हो।",
+          "नौकर की परीक्षा तब करें जब वह कर्त्तव्य का पालन  न कर रहा हो, \nरिश्तेदार की परीक्षा तब करें जब आप मुसीबत मे घिरें हों,\nमित्र की परीक्षा विपरीत परिस्थितियों मे करें,\nऔर जब आपका वक्त अच्छा न चल रहा हो तब पत्नी की परीक्षा करे।",
+          "अच्छा मित्र वही है जो हमे निम्नलिखित परिस्थितियों में  नहीं त्यागे:\nआवश्यकता पड़ने पर,\nकिसी दुर्घटना पड़ने पर,\nजब अकाल पड़ा हो,\nजब युद्ध चल रहा हो,\nजब हमे राजा के दरबार मे जाना पड़े,nऔर जब हमे समशान घाट जाना पड़े।",
+          "जो व्यक्ति कसी नाशवंत चीज के लिए कभी नाश नहीं होने वाली चीज को छोड़ देता है, तो उसके हाथ से अविनाशी वस्तु तो चली ही जाती है और इसमे कोई संदेह नहीं की नाशवान को भी वह खो देता है।",
+          "एक बुद्धिमान व्यक्ति को किसी इज्जतदार घर की अविवाहित कन्या से किस वयंग होने के बावजूद भी विवाह करना चाहिए। उसे किसी हीन घर की अत्यंत सुन्दर स्त्री से भी विवाह नहीं करनी चाहिए। शादी-विवाह हमेशा बराबरी के घरो मे ही उिचत होता है।",
+          "इन ५ पर कभी विश्वास ना करें :\n१. नदियां, \n२. जिन व्यक्तियों के पास अश्त्र-शस्त्र हों, \n३. नाख़ून और सींग वाले पशु, \n४. औरतें (यहाँ संकेत भोली सूरत की तरफ है, बहने बुरा न माने )\n५. राज घरानो के लोगो पर।",
+          "अगर हो सके तो विष मे से भी अमृत निकाल लें, \nयदि सोना गन्दगी में भी पड़ा हो तो उसे उठाये, धोएं और अपनाये,\nनिचले कुल मे जन्म लेने वाले से भी सर्वोत्तम ज्ञान ग्रहण करें, \nउसी तरह यदि कोई बदनाम घर की कन्या भी महान गुणो से संपनन है और आपको कोई सीख देती है तो गहण करे.",
+          "महिलाओं में पुरुषों कि अपेक्षा: \nभूख दो गुना,\nलज्जा चार गुना,\nसाहस छः गुना, \nऔर काम आठ गुना होती है।"
+        ]
+      },
+      {
+        "title": "द्वितीय अध्याय",
+        "image": "",
+        "content": [
+          "झूठ बोलना, कठोरता, छल करना, बेवकूफी करना, लालच, अपवित्रता  और निर्दयता ये औरतो के कुछ नैसर्गिक दुर्गुण है।",
+          "भोजन के योग्य पदार्थ और भोजन करने की क्षमता, सुन्दर स्त्री और उसे भोगने के लिए काम शक्ति, पर्याप्त धनराशी तथा दान देने की भावना - ऐसे संयोगों का होना सामान्य तप का फल नहीं है।",
+          "उस व्यक्ति ने धरती पर ही स्वर्ग को पा लिया :\n१. जिसका पुत्र आज्ञांकारी है,\n२. जिसकी पत्नी उसकी इच्छा के अनुरूप व्यव्हार करती है,\n३. जिसे अपने धन पर संतोष  है।",
+          "पुत्र वही है जो पिता का कहना मानता हो, पिता वही है जो पुत्रों का पालन-पोषण करे, मित्र वही है जिस पर आप विश्वास कर सकते हों और पत्नी वही है जिससे सुख प्राप्त हो। ",
+          "ऐसे लोगों से बचे जो आपके मुह पर तो मीठी बातें करते हैं, लेकिन आपके पीठ पीछे आपको बर्बाद करने की योजना बनाते है, ऐसा करने वाले तो उस विष के घड़े के समान है जिसकी उपरी सतह दूध से भरी है।",
+          "एक बुरे मित्र पर तो कभी विश्वास ना करे। एक अच्छे मित्र पर भी विश्वास ना करें। क्यूंकि यदि ऐसे लोग आपसे रुष्ट होते है तो आप के सभी राज से पर्दा खोल देंगे। ",
+          "मन में सोंचे हुए कार्य को किसी के सामने प्रकट न करें बल्कि मनन पूर्वक उसकी सुरक्षा करते हुए उसे कार्य में परिणत कर दें।",
+          "मुर्खता दुखदायी है, जवानी भी दुखदायी है,लेकिन इन सबसे कहीं ज्यादा दुखदायी किसी दुसरे के घर जाकर उसका अहसान लेना है।",
+          "हर पर्वत पर माणिक्य नहीं होते,  हर हाथी के सर पर मणी नहीं होता, सज्जन पुरुष भी हर जगह नहीं होते और हर वन मे चन्दन के वृक्ष भी नहीं होते हैं।",
+          "बुद्धिमान पिता को अपने पुत्रों को शुभ गुणों की सीख देनी चाहिए क्योंकि नीतिज्ञ और ज्ञानी व्यक्तियों की ही कुल में पूजा होती है।",
+          "जो माता व् पिता अपने बच्चों को शिक्षा नहीं देते है वो तो बच्चों के शत्रु के सामान हैं। क्योंकि वे विद्याहीन बालक विद्वानों की सभा में वैसे ही तिरस्कृत किये जाते हैं जैसे हंसो की सभा मे बगुले।",
+          "लाड-प्यार से बच्चों मे गलत आदते ढलती है, उन्हें कड़ी शिक्षा देने से वे अच्छी आदते सीखते है, इसलिए बच्चों को जरुरत पड़ने पर दण्डित करें, ज्यादा लाड ना करें।",
+          "ऐसा एक भी दिन नहीं जाना चाहिए जब आपने एक श्लोक, आधा श्लोक, चौथाई श्लोक, या श्लोक का केवल एक अक्षर नहीं सीखा, या आपने दान, अभ्यास या कोई पवित्र कार्य नहीं किया।",
+          "पत्नी का वियोग होना, आपने ही लोगो से बे-इजजत होना, बचा हुआ ऋण, दुष्ट राजा की सेवा करना, गरीबी एवं दरिद्रों की सभा - ये छह बातें शरीर को बिना अग्नि के ही जला देती हैं।",
+          "नदी के किनारे वाले वृक्ष, दुसरे व्यक्ति के घर मे जाने अथवा रहने वाली स्त्री एवं बिना मंत्रियों का राजा - ये सब निश्चय ही शीघ्र नस्ट हो जाते हैं। ",
+          "एक ब्राह्मण का बल तेज और विद्या है, एक राजा का बल उसकी सेना मे है, एक वैशय का बल उसकी दौलत मे है तथा एक शुद्र का बल उसकी सेवा परायणता मे है।",
+          "वेश्या को निर्धन व्यक्ति को  त्याग देना चाहिए, प्रजा को पराजित राजा को त्याग देना चाहिए, पक्षियों को फलरहित वृक्ष त्याग देना चाहिए एवं अतिथियों को भोजन करने के पश्चात् मेजबान के घर से निकल देना चाहिए। ",
+          "ब्राह्मण दक्षिणा मिलने के पश्चात् आपने यजमानो को छोड़ देते है, विद्वान विद्या प्राप्ति के बाद गुरु को छोड़ जाते हैं और पशु जले हुए वन को त्याग देते हैं।",
+          "जो व्यक्ति दुराचारी, कुदृष्टि वाले, एवं बुरे स्थान पर रहने वाले मनुष्य के साथ मित्रता करता है, वह शीघ्र नष्ट हो जाता है।",
+          "प्रेम और मित्रता बराबर वालों में अच्छी लगती है, राजा के यहाँ नौकरी करने वाले को ही सम्मान मिलता है, व्यवसायों में वाणिज्य सबसे अच्छा है, अवं उत्तम गुणों वाली स्त्री अपने घर में सुरक्षित रहती है।"
+        ]
+      }
+    ],
+    "en" : [
+      {
+        "title": "First Chapter",
+        "image": "",
+        "content": [
+          "Humbly bowing down before the almighty Lord Sri Vishnu, the Lord of the three worlds, I recite maxims of the science of political ethics (niti) selected from the various satras (scriptures).",
+          "That man who by the study of these maxims from the satras acquires a knowledge of the most celebrated principles of duty, and understands what ought and what ought not to be followed, and what is good and what is bad, is most excellent.",
+          "Therefore with an eye to the public good, I shall speak that which, when understood, will lead to an understanding of things in their proper perspective.",
+          "Even a pandit comes to grief by giving instruction to a foolish disciple, by maintaining a wicked wife, and by excessive familiarity with the miserable.",
+          "A wicked wife, a false friend, a saucy servant and living in a house with a serpent in it are nothing but death.",
+          "One should save his money against hard times, save his wife at the sacrifice of his riches, but invariably one should save his soul even at the sacrifice of his wife and riches.",
+          "Save your wealth against future calamity. Do not say, \"What fear has a rich man, of calamity?\" When riches begin to forsake one even the accumulated stock dwindles away.",
+          "Do not inhabit a country where you are not respected, cannot earn your livelihood, have no friends, or cannot acquire knowledge.",
+          "Do not stay for a single day where there are not these five persons: a wealthy man, a brahmin well versed in Vedic lore, a king, a river and a physician.",
+          "Wise men should never go into a country where there are no means of earning one's livelihood, where the people have no dread of anybody, have no sense of shame, no intelligence, or a charitable disposition.",
+          "Test a servant while in the discharge of his duty, a relative in difficulty, a friend in adversity, and a wife in misfortune.",
+          "He is a true friend who does not forsake us in time of need, misfortune, famine, or war, in a king's court, or at the crematorium (smasana).",
+          "He who gives up what is imperishable for that which is perishable, loses that which is imperishable; and doubtlessly loses that which is perishable also.",
+          "A wise man should marry a virgin of a respectable family even if she is deformed. He should not marry one of a low-class family, through beauty. Marriage in a family of equal status is preferable.",
+          "Do not put your trust in rivers, men who carry weapons, beasts with claws or horns, women, and members of a royal family.",
+          "Even from poison extract nectar, wash and take back gold if it has fallen in filth, receive the highest knowledge (Krsna consciousness) from a low born person; so also a girl possessing virtuous qualities (stri-ratna) even if she were born in a disreputable family.",
+          "Women have hunger two-fold, shyness four-fold, daring six-fold, and lust eight-fold as compared to men."
+        ]
+      },
+      {
+        "title": "Second Chapter",
+        "image": "",
+        "content": [
+          "Untruthfulness, rashness, guile, stupidity, avarice, uncleanliness and cruelty are a woman's seven natural flaws.",
+          "To have ability for eating when dishes are ready at hand, to be robust and virile in the company of one's religiously wedded wife, and to have a mind for making charity when one is prosperous are the fruits of no ordinary austerities.",
+          "He whose son is obedient to him, whose wife's conduct is in accordance with his wishes, and who is content with his riches, has his heaven here on earth.",
+          "They alone are sons who are devoted to their father. He is a father who supports his sons. He is a friend in whom we can confide, and she only is a wife in whose company the husband feels contented and peaceful.",
+          "Avoid him who talks sweetly before you but tries to ruin you behind your back, for he is like a pitcher of poison with milk on top.",
+          "Do not put your trust in a bad companion nor even trust an ordinary friend, for if he should get angry with you, he may bring all your secrets to light.",
+          "Do not reveal what you have thought upon doing, but by wise counsel keep it secret, being determined to carry it into execution.",
+          "Foolishness is indeed painful, and verily so is youth, but more painful by far than either is being obliged in another person's house.",
+          "There does not exist a pearl in every mountain, nor a pearl in the head of every elephant; neither are the sadhus to be found everywhere, nor sandal trees in every forest.\n[Note: Only elephants in royal palaces are seen decorated with pearls (precious stones) on their heads].",
+          "Wise men should always bring up their sons in various moral ways, for children who have knowledge of niti-sastra and are well behaved become a glory to their family.",
+          "Those parents who do not educate their sons are their enemies; for as is a crane among swans, so are ignorant sons in a public assembly.",
+          "Many a bad habit is developed through over indulgence, and many a good one by chastisement, therefore beat your son as well as your pupil; never indulge them. (\"Spare the rod and spoil the child.\")",
+          "Let not a single day pass without your learning a verse, half a verse, or a fourth of it, or even one letter of it; nor without attending to charity, study and other pious activity.",
+          "Separation from the wife, disgrace from one's own people, an enemy saved in battle, service to a wicked king, poverty, and a mismanaged assembly: these six kinds of evils, if afflicting a person, burn him even without fire.",
+          "Trees on a riverbank, a woman in another man's house, and kings without counselors go without doubt to swift destruction.",
+          "A brahmin's strength is in his learning, a king's strength is in his army, a vaishya's strength is in his wealth and a shudra's strength is in his attitude of service.",
+          "The prostitute has to forsake a man who has no money, the subject a king that cannot defend him, the birds a tree that bears no fruit, and the guests a house after they have finished their meals.",
+          "Brahmins quit their patrons after receiving alms from them, scholars leave their teachers after receiving education from them, and animals desert a forest that has been burnt down.",
+          "He who befriends a man whose conduct is vicious, whose vision impure, and who is notoriously crooked, is rapidly ruined.",
+          "Friendship between equals flourishes, service under a king is respectable, it is good to be business-minded in public dealings, and a handsome lady is safe in her own home."
+        ]
+      }
+    ]
+  }
 }
